@@ -6,7 +6,7 @@ Hola chicos en este repositorio encontraran toda la programacion para ejecutar s
 
 - Recuerda que debes descargar las imagenes compartidas en este Git con el fin de que no obtengas errores, lo anterior tambien te lo explico desde cero en este [Video](https://youtu.be/lBGViBaEuS0).
 
-- Todos los requerimientos aprenderas a intalarlos en este [Video](https://youtu.be/lBGViBaEuS0), tambien puedes isntalarlos con el archivo requirements.txt. Recuerda que fue ejecutado con Python 3.7.
+- Todos los requerimientos aprenderas a instalarlos en este [Video](https://youtu.be/lBGViBaEuS0), tambien puedes instalarlos con el archivo requirements.txt. Recuerda que fue ejecutado con Python 3.7.
 
 
 ![Mini (1)](https://user-images.githubusercontent.com/85022752/187078704-72baa601-8570-47e1-86ae-dd656b32e7bb.jpg)
